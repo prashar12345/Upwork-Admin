@@ -1,0 +1,31 @@
+.tox-notifications-container,.tox-statusbar__branding{
+    display: none;
+}
+.linkclass {
+    color: #4aa2dc !important;
+}
+.checkList {
+    label {
+        margin-right: 14px;
+    }
+}
+
+.roleForm {
+    >* {
+        >label {
+            font-weight: 600;
+        }
+    }
+}
+
+#questionModal,
+#viewQuestionModal {
+    .modal-dialog {
+        max-width: 900px;
+    }
+}
+
+.deleteOption {
+    color: #f44336;
+    cursor: pointer;
+}

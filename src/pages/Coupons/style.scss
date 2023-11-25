@@ -1,0 +1,43 @@
+tr.deactive{
+    background-color: #ffd9dd;
+}
+
+.react-datepicker-wrapper{
+    display: block;
+    input{
+        // pointer-events: none;
+    }
+}
+
+.checkboxTd{
+    width: 20px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.activedeactiveicon {
+    font-size: 18px;
+    line-height: normal;
+    vertical-align: middle;
+}
+
+// .addDropdown {
+//     .dropdown-menu {
+//         left: initial !important;
+//         right: 0 !important;
+//         top: 100% !important;
+//         transform: none !important;
+//     }
+// }
+
+.nowrap {
+    white-space: nowrap;
+}
+
+  
+
+.modal-dialog-md {
+    max-width: 900px !important;
+}

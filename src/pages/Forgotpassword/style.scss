@@ -1,0 +1,31 @@
+.main_login{
+    background-image: url('../../../public/assets/img/login_Img.png');
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+input:-internal-autofill-selected {
+    background-color: #fff !important;
+    color: #A7A1A1 !important;
+    border-color: #D2CECE !important;
+    border: 1px solid #D2CECE !important;
+    border-radius: 38px !important;
+    height: 40px;
+}
+.top_section{
+    background-image: linear-gradient(to left, #2062AD, #0C8E99, #24A2DB );
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.right_side {
+    background-color: #fff;
+    height: 100%;
+    padding: 3rem;
+    border-width: 0px;
+    border-radius: 20px;
+}
